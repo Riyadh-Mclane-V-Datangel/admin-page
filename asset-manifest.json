@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/admin-page/static/css/main.f09eeee1.css",
+    "main.js": "/admin-page/static/js/main.a47edbef.js",
+    "static/js/453.c1cf6358.chunk.js": "/admin-page/static/js/453.c1cf6358.chunk.js",
+    "static/media/InterTight-Medium.ttf": "/admin-page/static/media/InterTight-Medium.a046b2b6656b8304f5df.ttf",
+    "static/media/Montserrat-Medium.ttf": "/admin-page/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/irislogo.png": "/admin-page/static/media/irislogo.e6af5fe050b5ffd5b4ee.png",
+    "static/media/IbarraRealNova-Medium.ttf": "/admin-page/static/media/IbarraRealNova-Medium.06570c893dda71d137e8.ttf",
+    "static/media/profile.png": "/admin-page/static/media/profile.19b60b646172bb0cfcb9.png",
+    "index.html": "/admin-page/index.html",
+    "main.f09eeee1.css.map": "/admin-page/static/css/main.f09eeee1.css.map",
+    "main.a47edbef.js.map": "/admin-page/static/js/main.a47edbef.js.map",
+    "453.c1cf6358.chunk.js.map": "/admin-page/static/js/453.c1cf6358.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f09eeee1.css",
+    "static/js/main.a47edbef.js"
+  ]
+}
